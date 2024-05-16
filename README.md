@@ -25,7 +25,7 @@ logger.error('Host', 'Error message');
 
 ## Example Output
 
-![Example Output](https://prnt.sc/8ltpP2EA6Ue8)
+![Example Output](https://github.com/oqzx/logger-utils/assets/145699040/c87baeef-d4e0-4793-adb8-0f2a0094a878)
 
 ## Configuration Options
 
