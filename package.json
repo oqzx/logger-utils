@@ -1,0 +1,20 @@
+{
+  "name": "@oqzx/logger-utils",
+  "version": "1.0.0",
+  "description": "Custom logger, supporting log type, with Winston for logging with color-coded output and text formatting.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "author": "oqzx",
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^3.3.3"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
